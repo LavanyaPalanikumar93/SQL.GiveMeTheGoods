@@ -1,0 +1,1 @@
+SELECT * FROM Students.Students WHERE CreditHours NOT BETWEEN 10 AND 20;

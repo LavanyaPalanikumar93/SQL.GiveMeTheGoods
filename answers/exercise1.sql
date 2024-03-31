@@ -1,0 +1,1 @@
+SELECT * from StudentsDB.Students WHERE City LIKE '_a%';

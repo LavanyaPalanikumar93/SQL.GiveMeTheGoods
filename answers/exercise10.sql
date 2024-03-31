@@ -1,0 +1,1 @@
+SELECT FirstName, LastName, Address, Country,PostalCode AS Zip from StudentsDB.Students;

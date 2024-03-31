@@ -1,0 +1,1 @@
+SELECT * from Students.Students WHERE Country NOT IN ('Sint Maarten','Haiti');

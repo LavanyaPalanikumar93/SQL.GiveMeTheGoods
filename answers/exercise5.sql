@@ -1,0 +1,1 @@
+SELECT * from Students.Students WHERE Country IN ('Sint Maarten','Haiti');
